@@ -34,3 +34,12 @@ Model terbaik (Random Forest) mencapai **ROC-AUC 0,707** dan balanced accuracy 0
 - `idx_stock_prediction.ipynb` – notebook lengkap dengan output
 
 *Dataset tidak disertakan karena ukurannya besar (±95 MB).*
+
+## Dokumen dan Bukti Pengerjaan
+
+| File | Isi |
+|---|---|
+| [`idx_stock_prediction.ipynb`](idx_stock_prediction.ipynb) | Notebook Python lengkap beserta output |
+| [`laporan/laporan_prediksi_saham_idx.pdf`](laporan/laporan_prediksi_saham_idx.pdf) | Laporan CRISP-DM lengkap: data, EDA, pemodelan, dan evaluasi |
+
+> Data pribadi anggota tim (nama, NIM, email) sudah dihapus dari dokumen.
